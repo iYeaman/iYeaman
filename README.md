@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iYeaman
+- 👋 Hi, I’m @Yeaman
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
